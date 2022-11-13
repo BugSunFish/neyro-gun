@@ -17,6 +17,8 @@ namespace Prohect_3
         }
         public int _x;
         public int _y;
+        public int _bx;
+        public int _by;
         public int hp = 100;
     }
 }
